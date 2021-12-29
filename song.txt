@@ -1,2 +1,4 @@
 sword
 real
+trial
+suprise
