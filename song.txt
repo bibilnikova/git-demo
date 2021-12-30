@@ -9,5 +9,4 @@ new
 words
 of
 the song
-not nessesary words what i need to delete
 
